@@ -93,7 +93,7 @@ The train tracking system using GPS is supposed to do the following  functions:
 
 Diagram below illustrate system environment        
 
-![System overview](\poster.jpg)
+![System overview](/poster.jpg)
 
 #### 2.4 User classes and characteristics:
 
