@@ -1,0 +1,2 @@
+C:\Users\kuttappayi\Documents\Visual Studio 2008\Projects\Trainsys\Trainsys\obj\Debug\Interop.SpeechLib.dll
+C:\Users\kuttappayi\Documents\Visual Studio 2008\Projects\Trainsys\Trainsys\obj\Debug\Trainsys.csproj.ResolveComReference.cache
